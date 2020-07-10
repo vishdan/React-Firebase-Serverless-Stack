@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Serverless Stack with Firebase
+**A dynamic react web application using Firebase's Firestore and Authentication**
 
 ## Available Scripts
 
